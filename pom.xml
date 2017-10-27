@@ -33,7 +33,7 @@
 
     <groupId>org.wildfly.bom</groupId>
     <artifactId>jboss-javaee-7.0-wildfly</artifactId>
-    <version>9.0.3.Final-SNAPSHOT</version>
+    <version>9.0.2-4-PSI</version>
 
     <packaging>pom</packaging>
 
