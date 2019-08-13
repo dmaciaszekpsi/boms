@@ -81,14 +81,14 @@
     </issueManagement>
 
     <properties>
-        <version.io.undertow>1.4.0.Final</version.io.undertow>
+        <version.io.undertow>1.4.27-1-PSI</version.io.undertow>
         <version.io.undertow.js>1.0.2.Final</version.io.undertow.js>
 
         <!-- Versions of projects not directly under JBoss umbrella -->
         <version.junit>4.12</version.junit>
         <version.log4j>1.2.17</version.log4j>
 
-        <version.org.apache.cxf>3.1.6</version.org.apache.cxf>
+        <version.org.apache.cxf>3.1.17</version.org.apache.cxf>
         <!-- Version of Hibernate projects -->
         <version.org.hibernate>5.0.10.Final</version.org.hibernate>
         <version.org.hibernate-jpamodelgen>${version.org.hibernate}</version.org.hibernate-jpamodelgen>
@@ -109,7 +109,7 @@
         <version.org.jboss.security.negotiation>3.0.2.Final</version.org.jboss.security.negotiation>
         <version.org.jboss.shrinkwrap.resolver>2.2.4</version.org.jboss.shrinkwrap.resolver>
         <version.org.jboss.spec.jboss.javaee.7>1.0.4.Final</version.org.jboss.spec.jboss.javaee.7>
-        <version.org.picketlink>2.5.5.SP2</version.org.picketlink>
+        <version.org.picketlink>2.5.5.SP12-redhat-00005</version.org.picketlink>
         <version.org.slf4j>1.7.7</version.org.slf4j>
         <version.org.testng>6.9.10</version.org.testng>
         <version.org.wildfly.arquillian.container>2.0.0.Final</version.org.wildfly.arquillian.container>
