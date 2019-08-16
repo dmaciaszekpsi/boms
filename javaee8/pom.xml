@@ -75,7 +75,7 @@
         <version.org.jboss.security.jboss-negotiation>3.0.4.Final</version.org.jboss.security.jboss-negotiation>
         <version.org.jboss.security.jbossxacml>2.0.8.Final</version.org.jboss.security.jbossxacml>
         <version.org.picketbox.picketbox-commons>1.0.0.final</version.org.picketbox.picketbox-commons>
-        <version.org.picketlink>2.5.5.SP12</version.org.picketlink>
+        <version.org.picketlink>2.5.5.SP12-redhat-00005</version.org.picketlink>
         <version.org.wildfly.arquillian>2.1.1.Final</version.org.wildfly.arquillian>
         <version.org.wildfly.plugin>1.2.1.Final</version.org.wildfly.plugin>
         <version.surefire.plugin>2.22.0</version.surefire.plugin>
