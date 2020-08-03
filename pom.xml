@@ -105,7 +105,7 @@
         <version.org.jboss.logging>3.3.0.Final</version.org.jboss.logging>
         <version.org.jboss.logging.jboss-logging-tools>2.0.1.Final</version.org.jboss.logging.jboss-logging-tools>
         <version.org.jboss.narayana>5.3.3.Final</version.org.jboss.narayana>
-        <version.org.jboss.resteasy>3.0.19.Final</version.org.jboss.resteasy>
+        <version.org.jboss.resteasy>3.0.25-2-PSI</version.org.jboss.resteasy>
         <version.org.jboss.security.negotiation>3.0.2.Final</version.org.jboss.security.negotiation>
         <version.org.jboss.shrinkwrap.resolver>2.2.4</version.org.jboss.shrinkwrap.resolver>
         <version.org.jboss.spec.jboss.javaee.7>1.0.4.Final</version.org.jboss.spec.jboss.javaee.7>
