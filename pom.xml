@@ -88,6 +88,8 @@
         <!-- https://access.redhat.com/maven-repository -->
         <maven.redhat.repository.url>${maven.repository.protocol}://maven.repository.redhat.com/ga/</maven.redhat.repository.url>
 
+        <!-- Allow insecure repositories -->
+        <insecure.repositories>WARN</insecure.repositories>
     </properties>
 
     <repositories>
