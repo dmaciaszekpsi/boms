@@ -28,7 +28,7 @@
 
     <groupId>org.wildfly.bom</groupId>
     <artifactId>wildfly-javaee7</artifactId>
-    <version>10.1.0-14-PSI-SNAPSHOT</version>
+    <version>10.1.0-14-PSI</version>
 
     <packaging>pom</packaging>
 
